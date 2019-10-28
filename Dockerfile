@@ -16,4 +16,3 @@ RUN pip3 install \
 
 RUN cd /opt \
  && curl -L $SPARK_URL | tar -xzf -
- 
